@@ -1,6 +1,7 @@
 📖 Overview
 
 This project demonstrates the deployment of Native Windows LAPS (Local Administrator Password Solution) within a custom Windows Server 2022 Active Directory environment. The objective of this project is to harden Tier 2 endpoints against Pass-the-Hash attacks and prevent lateral movement by ensuring every workstation has a unique, automatically rotating, and highly complex local administrator password securely backed up to Active Directory.
+
 🏗️ Lab Architecture
 
     Hypervisor: Hyper-V
